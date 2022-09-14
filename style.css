@@ -1,0 +1,26 @@
+body {
+	padding: 30px;
+}
+
+h1 {
+	padding: 20px;
+	color: gray;
+}
+
+label {
+	color: #198754;
+	font-size: 30px;
+}
+
+input {
+	font-family: cursive;
+}
+
+div {
+	padding: 20px;
+    width: 50%;
+}
+
+p {
+	font-size: 30px;
+}
