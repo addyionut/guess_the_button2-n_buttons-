@@ -11,7 +11,7 @@ function inputValue() {
 }
 
 function generateButtons(value) {
-	for (var i = 1; i <= value; ++i) {
+	for (let i = 1; i <= value; ++i) {
 		const createButtons = document.createElement("button");
 		createButtons.textContent = i;
 		createButtons.setAttribute("id", Number(i));
